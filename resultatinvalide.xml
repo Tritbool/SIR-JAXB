@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enchereTypeImpl>
+    <prix>0</prix>
+    <proprietaire>
+        <Prenom>Gauthier</Prenom>
+        <Login>Triton</Login>
+        <Mail>Triton@yolo.fap</Mail>
+    </proprietaire>
+    <MeilleurPrix>1000</MeilleurPrix>
+    <Titre>LES SOLEILS</Titre>
+    <Descriptif>Euh. Vente de glaces ?</Descriptif>
+    <Etat>ouvert</Etat>
+</enchereTypeImpl>

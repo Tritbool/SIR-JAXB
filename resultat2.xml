@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enchereTypeImpl>
+    <prix>0</prix>
+    <proprietaire>
+        <Nom>BILLON</Nom>
+        <Prenom>Pierre</Prenom>
+        <Login>deadubed</Login>
+        <Mail>deadubed@yolo.fap</Mail>
+    </proprietaire>
+    <MeilleurPrix>1256</MeilleurPrix>
+    <Titre>CHIFOUMI</Titre>
+    <Descriptif>Euh. Vente de ciseaux ?</Descriptif>
+    <Etat>ferme</Etat>
+</enchereTypeImpl>
